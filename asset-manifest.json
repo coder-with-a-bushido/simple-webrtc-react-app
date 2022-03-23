@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-webrtc-react-app/static/css/main.e91b8df9.css",
+    "main.js": "/simple-webrtc-react-app/static/js/main.02684c29.js",
+    "index.html": "/simple-webrtc-react-app/index.html",
+    "main.e91b8df9.css.map": "/simple-webrtc-react-app/static/css/main.e91b8df9.css.map",
+    "main.02684c29.js.map": "/simple-webrtc-react-app/static/js/main.02684c29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e91b8df9.css",
+    "static/js/main.02684c29.js"
+  ]
+}
