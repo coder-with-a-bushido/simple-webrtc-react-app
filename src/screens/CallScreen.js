@@ -62,7 +62,7 @@ function CallScreen() {
   const createPeerConnection = () => {
     try {
       pc = new RTCPeerConnection({
-        s: [
+        iceServers: [
           {
             urls: "stun:openrelay.metered.ca:80",
           },
