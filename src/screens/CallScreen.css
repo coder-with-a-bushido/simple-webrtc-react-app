@@ -1,0 +1,24 @@
+body {
+    background-color: #D1BAA9;
+    display: flex;
+    margin: 0;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    padding: 0 50px;
+    font-family: Arial;
+}
+
+video {
+    max-width: calc(50% - 100px);
+    margin: 20px;
+    box-sizing: border-box;
+    border-radius: 2px;
+    padding: 0;
+}
+
+label {
+    margin: 20px;
+    display: block;
+    color: black;
+}
