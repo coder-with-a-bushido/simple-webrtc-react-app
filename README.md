@@ -1,5 +1,7 @@
 # Simple WebRTC React app
-Refer this blog ["Build your first WebRTC app with Python and React"](https://www.100ms.live/blog/python-react-webrtc-app) on 100ms blogs for info on how to write this app.
+A simple 1-to-1 video call app with the power of WebRTC API.
+
+Refer this blog ["Build your first WebRTC app with Python and React"](https://www.100ms.live/blog/python-react-webrtc-app) on 100ms blogs for info on how to create this app.
 
 :rocket: Check out the deployed app [here](https://coder-with-a-bushido.github.io/simple-webrtc-react-app/)
 
